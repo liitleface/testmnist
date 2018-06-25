@@ -25,9 +25,6 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 
-/**
- * Changed by marianne-linhares on 20/04/17.
- */
 
 public class DrawView extends View {
 

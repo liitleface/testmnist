@@ -1,8 +1,5 @@
 package mariannelinhares.mnistandroid;
 
-/**
- * Created by marianne-linhares on 20/04/17.
- */
 
 public class Classification {
 

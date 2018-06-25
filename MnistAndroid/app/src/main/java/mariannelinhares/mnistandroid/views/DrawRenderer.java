@@ -23,10 +23,6 @@ import android.graphics.Paint;
 
 import mariannelinhares.mnistandroid.views.DrawModel;
 
-/**
- * Changed by marianne-linhares on 21/04/17.
- * https://raw.githubusercontent.com/miyosuda/TensorFlowAndroidMNIST/master/app/src/main/java/jp/narr/tensorflowmnist/DrawRenderer.java
- */
 
 public class DrawRenderer {
     /**
